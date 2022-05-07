@@ -19,7 +19,7 @@ setup(
     long_description = "fei shu notification",
     license = "MIT Licence",
 
-    url = "https://github.com/TJCZJH/feishu_notification",
+    url = "https://github.com/zhaojunhang/feishu_notification",
     author = "zhaojunhang",
     author_email = "454706391@qq.com",
 
