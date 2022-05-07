@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "fsbot",
-    version = "0.1.0",
+    version = "0.1.1",
     keywords = ("feishu"),
     description = "fei shu notification",
     long_description = "fei shu notification",
