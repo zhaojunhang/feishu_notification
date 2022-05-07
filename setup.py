@@ -12,14 +12,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "feishu_robot",
+    name = "fsbot",
     version = "0.1.0",
     keywords = ("feishu"),
     description = "fei shu notification",
     long_description = "fei shu notification",
     license = "MIT Licence",
 
-    url = "https://github.com/zhaojunhang/feishu_notification",
+    url = "https://github.com/zhaojunhang/feishu_notification.git",
     author = "zhaojunhang",
     author_email = "454706391@qq.com",
 
