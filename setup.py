@@ -12,7 +12,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "feishu_notification",
+    name = "feishu_robot",
     version = "0.1.0",
     keywords = ("feishu"),
     description = "fei shu notification",
@@ -26,5 +26,5 @@ setup(
     packages = find_packages(),
     include_package_data = True,
     platforms = "any",
-    install_requires = ['requests','json','logging','time','urllib3']
+    install_requires = ['requests','logging','urllib3']
 )
