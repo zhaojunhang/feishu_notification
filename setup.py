@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "fsbot",
-    version = "0.1.2",
+    version = "0.1.3",
     keywords = ("feishu"),
     description = "fei shu notification",
     long_description = "fei shu notification",
@@ -26,5 +26,5 @@ setup(
     packages = find_packages(),
     include_package_data = True,
     platforms = "any",
-    install_requires = ['requests','logging','urllib3']
+    install_requires = ['requests','urllib3']
 )
